@@ -1,2 +1,2 @@
 # gitintern
-test area for interns
+test area for interns, Remember this is public!
